@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Ray 👋</h1>
 
 <p align="center">
-  Math + CS grad from WashU, working where applied math meets machine learning.
+  Data scientist &amp; ML engineer — building data and ML systems where applied math meets production.
 </p>
 
 <p align="center">
@@ -12,19 +12,22 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="pandas">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow">
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white" alt="Snowflake">
   <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" alt="Swift">
-  <img src="https://img.shields.io/badge/Core_ML-000000?style=flat-square&logo=apple&logoColor=white" alt="Core ML">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy">
 </p>
 
 <br>
 
 ### 👋 About Me
 
-I'm currently doing **NLP research at the DI2 Accelerator**, fine-tuning transformer models on clinical notes to surface social risk factors that often go unaddressed in patient care. I use Claude Code daily to move faster on model evaluation, pipeline debugging, and everything in between.
+I'm a **Data Science Intern at the DI2 Accelerator**, fine-tuning ClinicalLongformer and BioMedBERT on thousands of rheumatology provider notes to classify patient social risk factors — depression, housing needs, financial insecurity — that often go unaddressed in care. I also built a GPT-based annotation pipeline to label previously unlabeled clinical notes at scale, and I use Claude Code daily to move faster on model evaluation, prompt iteration, and pipeline debugging.
 
-Most of what I build lives somewhere between applied math and machine learning: compressed sensing, signal processing, and NLP. Lately I've also been shipping on-device AI on iOS — like a privacy-first baby monitor that runs cry detection entirely on the phone, no cloud. Before this I was migrating compliance pipelines from Excel to Python, building dashboards for Fortune 500 clients, and TA'ing machine learning at WashU.
+Most of my work is **data science and ML engineering**: building data pipelines, ETL, and evaluation workflows on top of a foundation in applied math. I've migrated state-compliance reporting from Excel to Python + SQL with automated validation, shipped a full-stack ESG analytics app for Fortune 500 clients, and built a Snowflake-backed geospatial optimizer that won a civic-tech hackathon. Lately I've also been shipping on-device AI on iOS — like a privacy-first baby monitor that runs cry detection entirely on the phone, no cloud.
 
 Outside of code, I've spent two summers teaching 8th grade math to underrepresented students in San Francisco, and I care a lot about making math click for people who've been told it's not for them.
 
@@ -36,11 +39,11 @@ If any of this resonates, feel free to reach out and connect!
 
 | Project | Description |
 |---|---|
-| 👶 [**baby-monitor**](https://github.com/SoyIsrael/baby-monitor) | Privacy-first iOS baby monitor — turns two phones into a camera + viewer with on-device, cloud-free cry detection over local Wi-Fi |
+| 🌪️ [**stl-relief-optimizer**](https://github.com/SoyIsrael/stl-relief-optimizer) | Snowflake-backed geospatial optimizer over 1,062 census block groups and 1,000+ sites (Streamlit + FastAPI + PyDeck) — winner of the ArchData civic tech hackathon |
+| 👶 [**baby-monitor**](https://github.com/SoyIsrael/baby-monitor) | Privacy-first iOS baby monitor — a real-time two-device system with on-device, cloud-free cry detection over local Wi-Fi |
+| 🩺 [**Melanoma-Classification**](https://github.com/SoyIsrael/Melanoma-Classification) | ResNet50 skin cancer classifier handling class imbalance across 2,750 dermoscopy images |
 | 🔍 [**dft-sparse-recovery**](https://github.com/SoyIsrael/dft-sparse-recovery) | Sparse signal recovery using DFT measurements, with noise and sparsity mismatch experiments |
 | 🖐️ [**fingerprint-discrete-fourier-transform**](https://github.com/SoyIsrael/fingerprint-discrete-fourier-transform) | Interactive 2D DCT explorer for fingerprint images, walking through the full JPEG-style compression pipeline |
-| 🌪️ [**stl-relief-optimizer**](https://github.com/SoyIsrael/stl-relief-optimizer) | Geospatial disaster relief optimizer built after the 2025 St. Louis tornado, winner of the ArchData civic tech hackathon |
-| 🩺 [**Melanoma-Classification**](https://github.com/SoyIsrael/Melanoma-Classification) | ResNet50 skin cancer classifier handling class imbalance across 2,750 dermoscopy images |
 
 <br>
 
