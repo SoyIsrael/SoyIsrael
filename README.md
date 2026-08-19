@@ -24,7 +24,7 @@
 
 I'm currently doing **NLP research at the DI2 Accelerator**, fine-tuning transformer models on clinical notes to surface social risk factors that often go unaddressed in patient care. I use Claude Code daily to move faster on model evaluation, pipeline debugging, and everything in between.
 
-Most of what I build lives somewhere between applied math and machine learning: compressed sensing, signal processing, and NLP. Lately I've also been shipping **on-device AI on iOS** — like a privacy-first baby monitor that runs cry detection entirely on the phone, no cloud. Before this I was migrating compliance pipelines from Excel to Python, building dashboards for Fortune 500 clients, and TA'ing machine learning at WashU.
+Most of what I build lives somewhere between applied math and machine learning: compressed sensing, signal processing, and NLP. Lately I've also been shipping on-device AI on iOS — like a privacy-first baby monitor that runs cry detection entirely on the phone, no cloud. Before this I was migrating compliance pipelines from Excel to Python, building dashboards for Fortune 500 clients, and TA'ing machine learning at WashU.
 
 Outside of code, I've spent two summers teaching 8th grade math to underrepresented students in San Francisco, and I care a lot about making math click for people who've been told it's not for them.
 
