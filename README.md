@@ -48,6 +48,6 @@ If any of this resonates, feel free to reach out and connect!
 <br>
 
 <p align="center">
-  <a href="https://soyisrael.github.io/portfolio-site/"><img src="https://img.shields.io/badge/Website-soyisrael.github.io-1d4ed8?style=flat-square&logo=githubpages&logoColor=white" alt="Website"></a>
+  <a href="https://soyisrael.github.io/portfolio-site/"><img src="https://img.shields.io/badge/Website-Portfolio-1d4ed8?style=flat-square&logo=githubpages&logoColor=white" alt="Website"></a>
   <a href="mailto:israel.chavez7272@gmail.com"><img src="https://img.shields.io/badge/Email-israel.chavez7272@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
